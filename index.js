@@ -43,7 +43,7 @@ const questions = [
             type: 'list',
             message: 'license ?',
             name: 'license',
-            choices:['MIT','ISC','GNUPLv3',''],
+            choices:['MIT','ISC','GNUPLv3','none'],
             filter(val){
                 return val.toLowerCase();
             }
@@ -66,7 +66,7 @@ function init() {
 // converts all data to new data 
 const newData = generateMarkdown(data)
         // write newData to the README.md 
-       writeToFile('README.md', newData)
+       writeToFile('READMEgenerated.md', newData)
     })
 }
 
