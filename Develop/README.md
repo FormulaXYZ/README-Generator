@@ -1,22 +1,23 @@
-# game
+# ti
 ## Discription 
-itlets you play
+di
 
-### usage
-for playig
+## usage
+us
 
 #### Installation
-just insalll
+ins
 
-##### conrtibution
-you can contirbut
+#### conrtibution
+inf
 
-###### email
-eamil
+### email
+ema
 
-####### github
+### github
 git
 
-######## license
-isc
+### license
 
+![License:](https://img.shields.io/badge/License--yellow.svg)
+[license:](https://opensource.org/licenses/)

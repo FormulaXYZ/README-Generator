@@ -63,9 +63,9 @@ function init() {
     // gets data from user 
     inquirer.prompt(questions).then(function(data){
         console.log(data)
-// coverts all data to new data 
+// converts all data to new data 
 const newData = generateMarkdown(data)
-        // write new data to the README.md 
+        // write newData to the README.md 
        writeToFile('README.md', newData)
     })
 }
