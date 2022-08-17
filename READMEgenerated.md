@@ -1,27 +1,26 @@
 # title
-  tit
+  title
 
- ![License:isc](https://img.shields.io/badge/License-isc-yellow.svg)
+ 
  
 ## Discription 
-dis
+dicription
 
 ## usage
-usa
+usage
 
 #### Installation
-ins
+installation
 
 #### conrtibution
-inf
+contribution
 
 ### email
-emai
+email
 
 ### github
-git
+github
 
 
-### license
-    isc
-[license:isc](https://opensource.org/licenses/isc)
+
+
