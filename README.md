@@ -2,9 +2,9 @@
 #  Node.js: Professional README Generator
  [ link](https://drive.google.com/file/d/1m3Lcw3ZLPoIH5mmKBp2TKKquCq3H1CD8/view)
 
-![screenshot](C:\Users\Thomas\Pictures\Screenshots\Screenshot (32).png)
-![screenshot](C:\Users\Thomas\Pictures\Screenshots\Screenshot (33).png)
-![screenshot](C:\Users\Thomas\Pictures\Screenshots\Screenshot (34).png)
+![link](./images/readme1.png)
+![link](./images/readme2.png)
+![link](./images/readme3.png)	
 ## usage
 
    by using this  application the user can create a proffesional README file.because its give the user a choices,include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;if developers will contribute to the success of the project. When creating an open source project on GitHub, it’s important to have a high-quality README for the app.
